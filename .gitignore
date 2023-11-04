@@ -2,8 +2,4 @@ key/mykeypair.pem
 dataset/lighter_books.json
 dataset/lighter_authors.json
 dataset/series.json
-<<<<<<< HEAD
 dataset/list.json
-=======
-dataset/list.json
->>>>>>> edo
