@@ -5,7 +5,7 @@ This homework consists of a multifaceted assignment that blends data analysis wi
 Memebers of the Group 17:   
 - Saif Ali (saif.dev03@gmail.com)
 - Pietro Sciabbarrasi (sciabbarrasi.1970875@studenti.uniroma1.it)
-- Simons Zagaria (nephrite28@gmail.com)
+- Simone Zagaria (nephrite28@gmail.com)
 - Edo Fejzic (edo.fejzic@hotmail.com)
 
 ## Project Structure
